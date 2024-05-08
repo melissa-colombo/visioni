@@ -1,0 +1,352 @@
+.home {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 2412px;
+    position: relative;
+  }
+  
+  .home .handsome-frank {
+    position: absolute;
+    width: 280px;
+    height: 272px;
+    top: 584px;
+    left: 215px;
+    object-fit: cover;
+  }
+  
+  .home .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 80px;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .home .text-wrapper {
+    position: absolute;
+    top: 20px;
+    left: 130px;
+    font-family: "Athiti-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .frame {
+    width: 280px;
+    gap: 60px;
+    position: absolute;
+    top: 21px;
+    left: 1030px;
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .home .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Athiti-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    margin-right: -7px;
+    font-family: "Athiti-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .overlap-group {
+    position: absolute;
+    width: 1440px;
+    height: 80px;
+    top: 2293px;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .home .frame-2 {
+    width: 1100px;
+    justify-content: space-between;
+    position: relative;
+    top: 25px;
+    left: 130px;
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .home .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Athiti-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .home .overlap-2 {
+    position: absolute;
+    width: 1440px;
+    height: 400px;
+    top: 140px;
+    left: 0;
+    background-color: #5acdbc;
+  }
+  
+  .home .visioni-illustrate {
+    position: absolute;
+    top: 79px;
+    left: 130px;
+    font-family: "Athiti-Bold", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 96px;
+    letter-spacing: 0;
+    line-height: 67px;
+  }
+  
+  .home .span {
+    font-weight: 700;
+    color: #000000;
+  }
+  
+  .home .text-wrapper-5 {
+    font-family: "Athiti-Regular", Helvetica;
+    color: #ffffff;
+    font-size: 40px;
+    line-height: 200px;
+  }
+  
+  .home .text-wrapper-6 {
+    font-family: "Athiti-Regular", Helvetica;
+    color: #000000;
+    font-size: 36px;
+    line-height: 25.2px;
+  }
+  
+  .home .overlap-3 {
+    position: absolute;
+    width: 1183px;
+    height: 356px;
+    top: 22px;
+    left: 127px;
+  }
+  
+  .home .AP-martina-paukova {
+    position: absolute;
+    width: 356px;
+    height: 356px;
+    top: 0;
+    left: 827px;
+    object-fit: cover;
+  }
+  
+  .home .element-maggio-ore {
+    position: absolute;
+    width: 1183px;
+    top: 233px;
+    left: 0;
+    font-family: "Athiti-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 38.4px;
+  }
+  
+  .home .text-wrapper-7 {
+    position: absolute;
+    top: 919px;
+    left: 566px;
+    font-family: "ABeeZee-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .home .la-mostra-visioni {
+    position: absolute;
+    width: 580px;
+    top: 599px;
+    left: 530px;
+    font-family: "ABeeZee-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .home .rectangle {
+    position: absolute;
+    width: 1220px;
+    height: 1220px;
+    top: 1007px;
+    left: 110px;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .home .property-default {
+    position: absolute;
+    width: 380px;
+    height: 380px;
+    top: 20px;
+    left: 20px;
+  }
+  
+  .home .rectangle-default {
+    position: relative;
+    height: 380px;
+    background-color: #5acdbc;
+    border-radius: 20px;
+  }
+  
+  .home .overlap-group-2 {
+    position: absolute;
+    width: 380px;
+    height: 50px;
+    top: 320px;
+    left: 0;
+  }
+  
+  .home .text-wrapper-8 {
+    position: absolute;
+    width: 380px;
+    top: 0;
+    left: 0;
+    font-family: "ABeeZee-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .handsome-frank-jean {
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    top: 10px;
+    left: 15px;
+    object-fit: cover;
+  }
+  
+  .home .rectangle-default-wrapper {
+    top: 420px;
+    left: 20px;
+    position: absolute;
+    width: 380px;
+    height: 380px;
+  }
+  
+  .home .jean-jullien {
+    position: absolute;
+    width: 380px;
+    top: 320px;
+    left: 0;
+    font-family: "ABeeZee-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home .div-wrapper {
+    top: 820px;
+    left: 20px;
+    position: absolute;
+    width: 380px;
+    height: 380px;
+  }
+  
+  .home .property-default-2 {
+    top: 20px;
+    left: 420px;
+    position: absolute;
+    width: 380px;
+    height: 380px;
+  }
+  
+  .home .property-default-3 {
+    top: 420px;
+    left: 420px;
+    position: absolute;
+    width: 380px;
+    height: 380px;
+  }
+  
+  .home .property-default-4 {
+    top: 820px;
+    left: 420px;
+    position: absolute;
+    width: 380px;
+    height: 380px;
+  }
+  
+  .home .img {
+    position: absolute;
+    width: 350px;
+    height: 300px;
+    top: 10px;
+    left: 15px;
+  }
+  
+  .home .property-default-5 {
+    top: 20px;
+    left: 820px;
+    position: absolute;
+    width: 380px;
+    height: 380px;
+  }
+  
+  .home .property-default-6 {
+    top: 420px;
+    left: 820px;
+    position: absolute;
+    width: 380px;
+    height: 380px;
+  }
+  
+  .home .property-default-7 {
+    top: 820px;
+    left: 820px;
+    position: absolute;
+    width: 380px;
+    height: 380px;
+  }
+  
